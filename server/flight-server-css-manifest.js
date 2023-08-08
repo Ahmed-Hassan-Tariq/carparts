@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"cssImports":{"C:\\Users\\Ahmed\\Downloads\\project_next13_car_showcase-main\\app\\layout.tsx":["C:\\Users\\Ahmed\\Downloads\\project_next13_car_showcase-main\\app\\globals.css"]},"cssModules":{"C:\\Users\\Ahmed\\Downloads\\project_next13_car_showcase-main\\app\\page":["C:\\Users\\Ahmed\\Downloads\\project_next13_car_showcase-main\\app\\globals.css"]}}
