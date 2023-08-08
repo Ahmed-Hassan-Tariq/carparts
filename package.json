@@ -1,5 +1,9 @@
 {
-  "name": "carhub",
+   "name": "carparts",
+    "alias": [
+        "permasurgical.com",
+        "www.permasurgical.com"
+    ]
   "version": "0.1.0",
   "private": true,
   "scripts": {
