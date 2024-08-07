@@ -25,7 +25,7 @@ const ShowMore = ({ pageNumber, isNext }: ShowMoreProps) => {
         <CustomButton
           btnType="button"
           title="Show More"
-          containerStyles="bg-primary-blue rounded-full text-white"
+          containerStyles="car-details__close-btn"
           handleClick={handleNavigation}
         />
       )}
